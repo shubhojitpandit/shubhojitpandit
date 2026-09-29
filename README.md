@@ -73,6 +73,5 @@ Continuously developing projects that demonstrate technical understanding, analy
 
 ## Connect
 
-**LinkedIn:** [Shubhojit Pandit](YOUR_LINKEDIN_URL)  
-**Portfolio:** [Professional Portfolio](YOUR_PORTFOLIO_URL)  
-**Email:** [Contact Me](mailto:YOUR_EMAIL)
+**LinkedIn:** [Shubhojit Pandit](www.linkedin.com/in/shubhojitpandit)    
+**Email:** [Contact Me](mailto:shubhojit.pandit01@email.com)
