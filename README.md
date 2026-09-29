@@ -1,49 +1,92 @@
 # Shubhojit Pandit
 
-**AI Quality Evaluation | Analytical & Evidence-Based Problem Solving**
+### BCA Graduate | IT & Technology | Software Testing | Python | SQL | API Testing | AI & Automation
 
-Analytical and detail-oriented professional focused on AI quality evaluation, structured response assessment, and evidence-based problem solving.
+BCA graduate with a broad foundation in IT, software testing, programming, analytical problem-solving, and technology-driven workflows.
 
-My work combines critical thinking, logical reasoning, quality assessment, and technical documentation to evaluate AI-generated responses and identify opportunities for improvement.
-
----
-
-## Core Focus
-
-- AI Quality Evaluation
-- AI Response & Quality Assessment
-- Factual & Contextual Validation
-- Risk & Quality Assessment
-- Analytical & Critical Thinking
-- Technical Documentation
-- Evidence-Based Problem Solving
+I build practical projects across software testing, Python, SQL, web technologies, automation, and AI-assisted workflows, with a focus on structured problem-solving, quality assessment, and technical documentation.
 
 ---
 
-## Featured Work
+## Technical Focus
+
+- **Software Testing & QA** — Manual Testing, Quality Assurance, Defect Identification
+- **Programming & Data** — Python, SQL, Data Analysis
+- **API & Automation** — API Testing, Test Automation, Selenium
+- **Web Technologies** — HTML, CSS, JavaScript, Web Application Development
+- **AI & Technology** — Generative AI, LLMs, AI-Assisted Testing & Automation
+- **Analysis & Documentation** — Analytical Thinking, Process Analysis, Technical Documentation
+
+---
+
+## Featured Project
 
 ### AI Quality Evaluation Portfolio
 
-A structured portfolio demonstrating practical AI Quality Assurance and evaluation work across multiple real-world knowledge domains.
+A structured AI Quality Evaluation project demonstrating practical quality-assurance, analytical, and documentation workflows across multiple real-world knowledge domains.
 
 **30 AI Evaluations • 10+ Knowledge Domains • 3 QA Summaries • 3 Trend Reports**
 
-[View Portfolio →](https://github.com/shubhojitpandit/AI-Quality-Evaluation-Portfolio)
+The project applies a standardized evaluation methodology to:
+
+- Evaluate AI-generated responses
+- Validate factual and contextual accuracy
+- Assess recommendation quality and safety
+- Identify and classify quality issues
+- Assess severity and potential risk
+- Analyze business impact
+- Perform root-cause analysis
+- Develop evidence-based improvement recommendations
+- Produce QA summaries and trend reports
+- Maintain structured technical documentation
+
+### Evaluation Workflow
+
+`AI Response → Quality Evaluation → Issue Identification → Severity Assessment → Business Impact → Root Cause Analysis → Recommendation → QA Summary → Trend Analysis`
+
+[**View AI Quality Evaluation Portfolio →**](https://github.com/shubhojitpandit/AI-Quality-Evaluation-Portfolio)
+
+---
+
+## Project Areas
+
+### Python & Programming
+Practical Python projects focused on programming logic, problem-solving, automation, and technical workflows.
+
+### API Testing
+Projects focused on API request/response validation, test cases, error identification, and quality assessment.
+
+### SQL & Data Analysis
+SQL and analytical projects covering data querying, validation, pattern identification, and structured analysis.
+
+### Software Testing & Automation
+Testing projects covering manual testing, test case design, defect identification, automation workflows, and Selenium.
+
+### Web Development
+Practical web application projects covering front-end technologies and application development concepts.
 
 ---
 
 ## Education
 
-**Bachelor of Computer Applications (BCA)**
+**Bachelor of Computer Applications (BCA)**  
+Marwari College, Ranchi  
+**2020 – 2023 | 8.78 CGPA**
 
 ---
 
-## Professional Interests
+## Current Focus
 
-AI Quality • AI Evaluation • AI Operations • Quality Assurance • Analytical Workflows • Structured Documentation
+Building practical, documented work across:
+
+**Software Testing • Python • SQL • API Testing • Automation • Data Analysis • AI-Assisted Workflows**
+
+Continuously developing projects that demonstrate technical understanding, analytical thinking, structured problem-solving, and practical IT skills.
 
 ---
 
 ## Connect
 
-[LinkedIn](#) • [Portfolio](https://github.com/shubhojitpandit/AI-Quality-Evaluation-Portfolio) • [Email](mailto:shubhojit.pandit01@gmail.com)
+**LinkedIn:** [Shubhojit Pandit](YOUR_LINKEDIN_URL)  
+**Portfolio:** [Professional Portfolio](YOUR_PORTFOLIO_URL)  
+**Email:** [Contact Me](mailto:YOUR_EMAIL)
