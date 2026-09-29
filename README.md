@@ -23,26 +23,7 @@ I build practical projects across software testing, Python, SQL, web technologie
 
 ### AI Quality Evaluation Portfolio
 
-A structured AI Quality Evaluation project demonstrating practical quality-assurance, analytical, and documentation workflows across multiple real-world knowledge domains.
-
-**30 AI Evaluations • 10+ Knowledge Domains • 3 QA Summaries • 3 Trend Reports**
-
-The project applies a standardized evaluation methodology to:
-
-- Evaluate AI-generated responses
-- Validate factual and contextual accuracy
-- Assess recommendation quality and safety
-- Identify and classify quality issues
-- Assess severity and potential risk
-- Analyze business impact
-- Perform root-cause analysis
-- Develop evidence-based improvement recommendations
-- Produce QA summaries and trend reports
-- Maintain structured technical documentation
-
-### Evaluation Workflow
-
-`AI Response → Quality Evaluation → Issue Identification → Severity Assessment → Business Impact → Root Cause Analysis → Recommendation → QA Summary → Trend Analysis`
+A structured portfolio demonstrating practical AI quality evaluation, analytical reasoning, quality assurance, and technical documentation.
 
 [**View AI Quality Evaluation Portfolio →**](https://github.com/shubhojitpandit/AI-Quality-Evaluation-Portfolio)
 
@@ -51,18 +32,23 @@ The project applies a standardized evaluation methodology to:
 ## Project Areas
 
 ### Python & Programming
+
 Practical Python projects focused on programming logic, problem-solving, automation, and technical workflows.
 
 ### API Testing
+
 Projects focused on API request/response validation, test cases, error identification, and quality assessment.
 
 ### SQL & Data Analysis
+
 SQL and analytical projects covering data querying, validation, pattern identification, and structured analysis.
 
 ### Software Testing & Automation
+
 Testing projects covering manual testing, test case design, defect identification, automation workflows, and Selenium.
 
 ### Web Development
+
 Practical web application projects covering front-end technologies and application development concepts.
 
 ---
@@ -88,4 +74,5 @@ Continuously developing projects that demonstrate technical understanding, analy
 ## Connect
 
 **LinkedIn:** [Shubhojit Pandit](YOUR_LINKEDIN_URL)  
+**Portfolio:** [Professional Portfolio](YOUR_PORTFOLIO_URL)  
 **Email:** [Contact Me](mailto:YOUR_EMAIL)
